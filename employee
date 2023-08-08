@@ -1,16 +1,16 @@
 [
   {
-    "name": "sonoo",
+    "name1": "sonoo",
     "salary": 56000,
     "married": true
   },
   {
-    "name": "sonoo1",
+    "name2": "sonoo1",
     "salary": 61000,
     "married": false
   },
   {
-    "name": "sonoo2",
+    "name3": "sonoo2",
     "salary": 48000,
     "married": false
   }
